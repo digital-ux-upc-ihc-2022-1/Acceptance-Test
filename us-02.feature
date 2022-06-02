@@ -2,7 +2,6 @@ HU02
 EP01: 
 Como Usuario quiero poder registrarme para poder guardar información relevante rápida y eficientemente.
 
-
 Scenario: El usuario se registra manualmente
 
 Given que el usuario se encuentra en Formulario de Registro de datos personales y 
