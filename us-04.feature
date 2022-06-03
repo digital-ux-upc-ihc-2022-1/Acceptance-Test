@@ -12,4 +12,3 @@ Escenario 02: Usuario se registra como carpintero
 Given que el usuario se encuentra en la sección de registro de perfil llenando las casillas de datos generales y el usuario selecciona el botón “Siguiente”
 When  muestra la sección “Tipo de usuario” 
 Then el usuario elige la opción “Carpintero”, y se encuentra en “perfil de carpintero”
-
