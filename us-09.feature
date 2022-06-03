@@ -16,3 +16,4 @@ When ingresa el correo del otro usuario que no  tenga su perfil en la aplicació
 Then se muestra una notificación de error con el texto “Este usuario no existe”
 
 
+ 
